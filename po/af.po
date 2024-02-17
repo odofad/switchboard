@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-01 16:19+0000\n"
 "PO-Revision-Date: 2024-02-16 16:33+0200\n"
-"Last-Translator: Avi Romanoff <Unknown>\n"
+"Last-Translator: odofad <odofad@gmail.com>\n"
 "Language-Team: Afrikaans <af@li.org>\n"
 "Language: af\n"
 "MIME-Version: 1.0\n"
@@ -66,7 +66,7 @@ msgstr "Probeer soekterme verander."
 #: src/SearchView.vala:49
 #, c-format
 msgid "No Results for “%s”"
-msgstr "Geen resultate vir \"%s\" nie"
+msgstr "Geen resultate vir “%s” nie"
 
 #~ msgid "translator-credits"
 #~ msgstr ""
