@@ -1,7 +1,7 @@
 # Afrikaans translation for switchboard
 # Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
 # This file is distributed under the same license as the switchboard package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+# FIRST AUTHOR Odofad, 2014.
 #
 msgid ""
 msgstr ""
